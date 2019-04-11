@@ -1,0 +1,23 @@
+{
+	"list":[{
+		"name":"白菜",
+		"price":10,
+		"num":0
+	},{
+		"name":"羊肉",
+		"price":20,
+		"num":0
+	},{
+		"name":"西红柿",
+		"price":30,
+		"num":0
+	},{
+		"name":"黄瓜",
+		"price":10,
+		"num":0
+	},{
+		"name":"蔬菜",
+		"price":12,
+		"num":0
+	}]
+}
